@@ -1,0 +1,4 @@
+Anotação de usuários:
+
+User 1 = exemplo_1 / senha: 123
+User 2 = exemplo_2 / senha: 456

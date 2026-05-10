@@ -1,0 +1,1 @@
+Projeto desenvolvido em Python simulando comportamentos básicos de ransomware e keylogger em ambiente controlado. O objetivo foi compreender técnicas utilizadas por malwares, além de estudar mecanismos de prevenção, detecção e mitigação.
